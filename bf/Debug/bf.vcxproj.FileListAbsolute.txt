@@ -1,0 +1,2 @@
+C:\Users\k\Desktop\알고리즘\bf\Debug\bf.exe
+C:\Users\k\Desktop\알고리즘\bf\Debug\bf.pdb
