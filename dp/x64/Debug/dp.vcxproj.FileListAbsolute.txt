@@ -1,0 +1,2 @@
+C:\Users\k\Desktop\알고리즘\3월2주차\dp\x64\Debug\dp.exe
+C:\Users\k\Desktop\알고리즘\3월2주차\dp\x64\Debug\dp.pdb
